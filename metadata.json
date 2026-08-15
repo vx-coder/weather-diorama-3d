@@ -1,0 +1,6 @@
+{
+  "name": "Diorama Weather",
+  "description": "Weather visualizer featuring 3D miniature diorama landmark backgrounds generated with Gemini AI and real-time atmospheric forecast data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
